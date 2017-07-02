@@ -13,29 +13,29 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 
 ## Example Commands:
 
-  COMMAND-LINE EXAMPLE (1):
+> COMMAND-LINE EXAMPLE (1):
 
-   F:
+> F:
  
-   cd F:\\Python\\Projects\\Epoch
+> cd F:\\Python\\Projects\\Epoch
  
-   python unix_counter.py 1500000000 0.01 0
+> python unix_counter.py 1500000000 0.01 0
 
 
-COMMAND-LINE EXAMPLE (2):
+> COMMAND-LINE EXAMPLE (2):
 
- F:
+> F:
  
- cd F:\\Python\\Projects\\Epoch
+> cd F:\\Python\\Projects\\Epoch
  
- python unix_counter.py -p 1500000000 -m 0.01 -o 0
+> python unix_counter.py -p 1500000000 -m 0.01 -o 0
 
 
-COMMAND-LINE EXAMPLE (3):
+> COMMAND-LINE EXAMPLE (3):
 
- F:
+> F:
  
- cd F:\\Python\\Projects\\Epoch
+> cd F:\\Python\\Projects\\Epoch
  
- python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
+> python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
  
