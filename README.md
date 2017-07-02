@@ -1,7 +1,7 @@
 # Unix_Epoch_Counter
 Purpose of this Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and other Timestamps.
 
-This Python script contains a function called unix_countup() in [unix_periods](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py), which counts up to a unix time.
+This Python script contains a function called unix_countup() in [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py), which counts up to a unix time.
 
 According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (also known as POSIX time or epoch time) is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, minus the number of leap seconds that have taken place since then.
 
@@ -12,7 +12,7 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 
 
 ## Comand-Line Examples:
-In the following examples, unix_periods.py and unix_counter.py are stored in an USB thumb drive (F:). First we need to switch drives, then we can change the directory within the (F:) drive.
+In the following examples, [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py) and [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py) are stored in an USB thumb drive (F:). First we need to switch drives, then we can change the directory within the (F:) drive.
 
 Example #1:
 ```cmd
