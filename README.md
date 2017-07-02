@@ -59,6 +59,6 @@ python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 [https://www.Twitter.com/VossDataScience](https://www.Twitter.com/VossDataScience)
 
 
-##REMEMBER!
+## REMEMBER!
 
 ![](http://i.imgur.com/vmo1IYJ.jpg)
