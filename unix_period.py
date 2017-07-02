@@ -5,14 +5,14 @@ import time
 
 #Press ctrl c to interrupt the unix_countup function.
 
-def unix_countup(party=1500000000, moment=0.01, offset=0):
+def unix_countup(party=1500000000, moment=0.01, offset=0, d=2):
     '''Unix Time Stamp CountUp'''
-    now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, 2)
+    now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, d)
     while now < party:
         print("{:,}".format(now)),'\r',
         sys.stdout.flush()
         time.sleep(moment)
-        now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, 2)
+        now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, d)
         
     print()
 
