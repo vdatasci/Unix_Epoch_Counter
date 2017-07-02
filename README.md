@@ -1,6 +1,7 @@
 # Unix_Epoch_Counter
 
-![](http://i.imgur.com/vmo1IYJ.jpg)
+![](https://scontent.fdet1-1.fna.fbcdn.net/v/t31.0-8/19400332_1563430300374880_9164840505946069472_o.jpg?oh=c5741ea11c5035225a97eb4a67a7a5b2&oe=5A05A836)
+
 
 The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps. The counter will be displayed on an [LED sign](https://scontent.fdet1-1.fna.fbcdn.net/v/t1.0-9/19366127_1563430300374880_9164840505946069472_n.jpg?oh=a2e3adc5bf063309edc0df470d8cf6bf&oe=59CBB2DF).
 
@@ -56,3 +57,8 @@ python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 [http://www.LinkedIn.com/in/Josh-Voss/](http://www.linkedin.com/in/josh-voss/)
 
 [https://www.Twitter.com/VossDataScience](https://www.Twitter.com/VossDataScience)
+
+
+##REMEMBER!
+
+![](http://i.imgur.com/vmo1IYJ.jpg)
