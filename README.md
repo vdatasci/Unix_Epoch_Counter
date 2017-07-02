@@ -11,24 +11,24 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 * Change directory (cd) to the location of [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py)
 
 
-## Example Commands:
+## Comand-Line Examples:
 
 
-COMMAND-LINE EXAMPLE (1):
+Example #1:
 ```cmd
 F:
 cd F:\\Python\\Projects\\Epoch
 python unix_counter.py 1500000000 0.01 0
 ```
 
-COMMAND-LINE EXAMPLE (2):
+Example #2:
 ```cmd
 F:
 cd F:\\Python\\Projects\\Epoch
 python unix_counter.py -p 1500000000 -m 0.01 -o 0
 ```
 
-COMMAND-LINE EXAMPLE (3):
+Example #3:
 ```cmd
 F:
 cd F:\\Python\\Projects\\Epoch
