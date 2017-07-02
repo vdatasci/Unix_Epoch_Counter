@@ -8,7 +8,7 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 
 ## Setup:
 * Open Command Prompt
-* Change the directory (cd) to folder location of unix_periods.py and unix_counter.py.
+* Change the directory ([cd](https://en.wikipedia.org/wiki/Cd_(command))) to folder location of unix_periods.py and unix_counter.py.
 * Type in ```python unix_counter.py --help'```
 
 
