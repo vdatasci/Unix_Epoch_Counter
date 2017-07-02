@@ -13,8 +13,9 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 
 ## Example Commands:
 
-> COMMAND-LINE EXAMPLE (1):
-
+```cmd
+COMMAND-LINE EXAMPLE (1):
+```
 > F:
 
 > cd F:\\Python\\Projects\\Epoch
