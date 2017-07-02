@@ -47,6 +47,9 @@ python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 ![](http://i.imgur.com/a3Cg2eS.gif)
 
 
+#### Alternative Live Example:
+![](https://media.giphy.com/media/hQAiBlj57HlVC/giphy.gif)
+
 ## About The Author:
 [https://www.JoshingAroundBlog.WordPress.com/](https://www.JoshingAroundBlog.WordPress.com/)
 
