@@ -1,11 +1,13 @@
 # Unix_Epoch_Counter
 The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps.
 
-![](https://media.giphy.com/media/NuLThwEkFqhXO/giphy.gif)
+![](http://i.imgur.com/vmo1IYJ.jpg)
 
 According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (also known as POSIX time or epoch time) is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, minus the number of leap seconds that have taken place since then.
 
 This Python script contains a function called unix_countup() in [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py), which counts up to a unix time.
+
+![](https://media.giphy.com/media/NuLThwEkFqhXO/giphy.gif)
 
 ## Setup:
 * Download the files [here](https://github.com/vdatasci/Unix_Epoch_Counter/archive/master.zip).
