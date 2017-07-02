@@ -8,7 +8,7 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 
 ## Setup:
 * Open Command Prompt
-* Change directory (cd) to the location of [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py)
+* Change the directory (cd) to folder location of unix_periods.py and unix_counter.py.
 
 
 ## Comand-Line Examples:
