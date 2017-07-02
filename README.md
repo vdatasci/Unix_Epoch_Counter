@@ -15,7 +15,7 @@ This Python script contains a function called unix_countup() in [unix_periods.py
 
 
 
-## Comand-Line Examples:
+## Command-Line Examples:
 In the following examples, [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py) and [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py) are stored in an USB thumb drive (F:). First we need to switch drives, then we can change the directory within the (F:) drive.
 
 Example #1:
