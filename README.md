@@ -12,7 +12,7 @@ According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (al
 
 
 ## Comand-Line Examples:
-
+In the following examples, unix_periods.py and unix_counter.py are stored in an USB thumb drive (F:). First we need to switch drives, then we can change the directory within the (F:) drive.
 
 Example #1:
 ```cmd
