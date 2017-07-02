@@ -1,5 +1,5 @@
 # Unix_Epoch_Counter
-Purpose of this Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and other Timestamps.
+The purpose of this Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future Timestamps.
 
 This Python script contains a function called unix_countup() in [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py), which counts up to a unix time.
 
