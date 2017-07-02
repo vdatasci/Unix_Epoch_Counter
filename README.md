@@ -2,7 +2,7 @@
 
 ![](http://i.imgur.com/vmo1IYJ.jpg)
 
-The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps.
+The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps. The counter will be displayed on an LED sign.
 
 
 According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (also known as POSIX time or epoch time) is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, minus the number of leap seconds that have taken place since then.
