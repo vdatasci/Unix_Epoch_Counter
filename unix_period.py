@@ -9,7 +9,7 @@ def unix_countup(party=1500000000, moment=0.01, offset=0):
     '''Unix Time Stamp CountUp'''
     now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, 2)
     while now < party:
-        print("{:,}".format(now), '\r',
+        print("{:,}".format(now)),'\r',
         sys.stdout.flush()
         time.sleep(moment)
         now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, 2)
