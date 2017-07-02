@@ -1,6 +1,6 @@
 # Unix_Epoch_Counter
 
-![](https://scontent.fdet1-1.fna.fbcdn.net/v/t1.0-0/p526x296/19366127_1563430300374880_9164840505946069472_n.jpg?oh=419100acb4e269ce8ebbcf66a6a4808a&oe=59D40D01)
+![](https://scontent.fdet1-1.fna.fbcdn.net/v/t1.0-9/19366127_1563430300374880_9164840505946069472_n.jpg?oh=a2e3adc5bf063309edc0df470d8cf6bf&oe=59CBB2DF)
 
 
 The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps. The counter will be displayed on an [LED sign](https://scontent.fdet1-1.fna.fbcdn.net/v/t1.0-9/19366127_1563430300374880_9164840505946069472_n.jpg?oh=a2e3adc5bf063309edc0df470d8cf6bf&oe=59CBB2DF).
