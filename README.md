@@ -47,7 +47,7 @@ python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 ![](http://i.imgur.com/a3Cg2eS.gif)
 
 
-## About Author:
+## About The Author:
 [https://www.JoshingAroundBlog.WordPress.com/](https://www.JoshingAroundBlog.WordPress.com/)
 
 [http://www.LinkedIn.com/in/Josh-Voss/](http://www.linkedin.com/in/josh-voss/)
