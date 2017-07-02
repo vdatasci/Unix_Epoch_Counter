@@ -41,3 +41,9 @@ python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 
 #### Live Example:
 ![](http://i.imgur.com/a3Cg2eS.gif)
+
+
+## About Author:
+[https://www.JoshingAroundBlog.WordPress.com/](https://www.JoshingAroundBlog.WordPress.com/)
+[https://www.linkedin.com/in/josh-voss/](https://www.linkedin.com/in/josh-voss/)
+[https://www.Twitter.com/VossDataScience](https://www.Twitter.com/VossDataScience)
