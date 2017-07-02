@@ -1,5 +1,5 @@
 # Unix_Epoch_Counter
-The purpose of this Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps.
+The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and future timestamps.
 
 ![](https://media.giphy.com/media/NuLThwEkFqhXO/giphy.gif)
 
