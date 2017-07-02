@@ -3,8 +3,6 @@ import sys
 import time
 
 
-###If highlight command line, then the function pauses but does not resync time. I will upgrade this file, so the time will resync.
-###The counter ascends. I might add a parameter to the unix_countup() that allows for ascending or descending the counter.
 #Press ctrl c to interrupt the unix_countup function.
 
 def unix_countup(party=1500000000, moment=0.01, offset=0):
@@ -15,3 +13,13 @@ def unix_countup(party=1500000000, moment=0.01, offset=0):
         now+=moment if moment!=0 else now;
         sys.stdout.flush()
         time.sleep(moment)
+
+
+
+
+
+
+
+
+###If text is marked in the command-line, then the function pauses and does not resync time. I will upgrade this file in the future, so the time will resync after text is marked.
+###Note: The counter ascends. I might add a parameter to the unix_countup() that allows for ascending or descending the counter.
