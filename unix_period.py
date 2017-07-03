@@ -8,15 +8,12 @@ def unix_countup(party=1500000000, moment=0.01, offset=0):
     '''Unix Time Stamp Counter.
     
     unix_countup(party, moment, offset)
-
     party:= counter end time
     moment:= distinct measures of time
     offset:= displacement from generated time
     
-
     Example:
     unix_countup(party=1500000000, moment=0.01, offset=0)
-
     '''
     now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, 2)
     while now < party:
@@ -24,8 +21,6 @@ def unix_countup(party=1500000000, moment=0.01, offset=0):
         sys.stdout.flush()
         time.sleep(moment)
         now = round((datetime.datetime.utcnow() - datetime.datetime(1970, 1, 1)).total_seconds() + offset, 2)
-
-
 
 
 
