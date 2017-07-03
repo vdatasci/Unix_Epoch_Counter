@@ -47,8 +47,6 @@ https://www.Twitter.com/VossDataScience
 #NOTE (fix): dashes make the argument optional, not required
 
 
-if __name__ == '__main__':
-    up.unix_countup(1500000000, 0.1, 0)
 
 
 
@@ -65,5 +63,9 @@ while True:
         if args.party and args.moment and args.offset:
             counter = up.unix_countup(args.party[0], args.moment[0], args.offset[0])
             counter
+        else:
+            if __name__ == '__main__':
+                up.unix_countup(1500000000, 0.01, 0)
+
         #If you want to exit the counter, then press ctrl c
 
