@@ -46,11 +46,11 @@ cd F:\\Python\\Projects\\Epoch
 python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 ```
 
-#### Live Example:
-![](http://i.imgur.com/a3Cg2eS.gif)
+#### Recorded Example:
+![](http://i.imgur.com/rPiAmrx.gif)
 
 
-#### Alternative Live Example:
+#### Desired Results:
 ![](https://media.giphy.com/media/3KC2jD2QcBOSc/giphy.gif)
 
 ## About The Author:
