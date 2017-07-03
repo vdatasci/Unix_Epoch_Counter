@@ -14,7 +14,7 @@ The file called [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter
 
 ## Setup:
 * Download the files [here](https://github.com/vdatasci/Unix_Epoch_Counter/archive/master.zip).
-* Open [Command Prompt](C:\Windows\System32\cmd.exe)
+* Open [Command Prompt](file:///C:\Windows\System32\cmd.exe)
 * Change the directory ([cd](https://en.wikipedia.org/wiki/Cd_(command))) to folder location of [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py) and [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py).
 * Type in ```python unix_counter.py --help'```
 
