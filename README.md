@@ -8,7 +8,7 @@ The purpose of the Unix Epoch Counter is to celebrate 1.5 Billion Unix Epoch and
 
 According to Wikipedia, [Unix time](https://en.wikipedia.org/wiki/Unix_time) (also known as POSIX time or epoch time) is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, minus the number of leap seconds that have taken place since then.
 
-This Python project contains a function called unix_countup(), counting up to a unix time (function stored in file:[unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py))
+The file called [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py) has a function called unix_countup() which counts up to a specified unix timestamp.
 
 ![](https://media.giphy.com/media/NuLThwEkFqhXO/giphy.gif)
 
@@ -21,7 +21,9 @@ This Python project contains a function called unix_countup(), counting up to a 
 
 
 ## Command-Line Examples:
-In the following examples, [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py) and [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py) are stored in an USB thumb drive (F:). First we need to switch drives, then we can change the directory within the (F:) drive.
+In the following examples, [unix_periods.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_period.py) and [unix_counter.py](https://github.com/vdatasci/Unix_Epoch_Counter/blob/master/unix_counter.py) are stored in an USB thumb drive (F:). 
+
+To run the code, we need to switch drives and then change the directory within the (F:) drive.
 
 Example #1:
 ```cmd
