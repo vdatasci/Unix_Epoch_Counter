@@ -44,6 +44,12 @@ https://www.Twitter.com/VossDataScience
 """)
 #NOTE (fix): dashes make the argument optional, not required
 
+
+if __name__ == '__main__':
+    up.unix_countup(1500000000, 0.1, 0)
+
+
+
 while True:
     try:
         counter = up.unix_countup(int(sys.argv[1]), float(sys.argv[2]), int(sys.argv[3]),)
