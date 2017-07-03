@@ -10,7 +10,7 @@ def unix_countup(party=1500000000, moment=0.01, offset=0):
     unix_countup(party, moment, offset)
     party:= counter end time
     moment:= distinct measures of time
-    offset:= displacement from generated time
+    offset:= displacement from time
     
     Example:
     unix_countup(party=1500000000, moment=0.01, offset=0)
