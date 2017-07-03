@@ -47,7 +47,7 @@ python unix_counter.py --party 1500000000 --moment 0.01 --offset 0
 ```
 
 #### Recorded Example:
-![](i.imgur.com/rPiAmrx.gif)
+![](http://i.imgur.com/rPiAmrx.gifv)
 
 
 #### Desired Results:
