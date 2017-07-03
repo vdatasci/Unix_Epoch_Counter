@@ -16,7 +16,7 @@ import unix_period as up
 parser=argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter,
     description='''
 
-This Python script contains a function called unix_countup(), which counts up to a unix time. \r 
+This Python script contains a function called unix_countup(), which counts up to a unix time.
 Unix time (also known as POSIX time or epoch time) is a system for describing instants in time, defined as the number of seconds that have elapsed since 00:00:00 Coordinated Universal Time (UTC), Thursday, 1 January 1970, minus the number of leap seconds that have taken place since then.
 
 
