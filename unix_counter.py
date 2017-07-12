@@ -1,5 +1,3 @@
-import datetime
-import sys
 import time
 import argparse
 import unix_period as up
