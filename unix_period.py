@@ -1,7 +1,7 @@
 import time
 
 #Press CTRL C to interrupt the unix_countup function:
-def unix_countup(party=1500000000):
+def unix_countup(party=1500000000, msg='Party Time!'):
     '''Unix Time Stamp Counter.
     
     unix_countup(party)
@@ -19,7 +19,12 @@ def unix_countup(party=1500000000):
         else:
             break
     
-    print('1.5 Billion!')
+    if msg == True:
+        print(msg)
+    else:
+        print("{:,}".format(time.time()))
+        wait_time = 1-time.time()%1
+        time.sleep(wait_time if wait_time else 1)
 
 
 
