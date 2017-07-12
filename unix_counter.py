@@ -51,16 +51,17 @@ https://www.Twitter.com/VossDataScience
 
 while True:
     try:
-        counter = up.unix_countup(int(sys.argv[1]),)
+        counter = up.unix_countup(int(sys.argv[1]), sys.argv[2])
         counter
     except:
         parser.add_argument('-p', '--party', nargs='*', type=int, default=1500000000, help='The unix time for the party!  Default:[party=1500000000]')
-        #parser.add_argument('-m', '--moment', nargs='*', type=float, default=0.01, help='The moment generator for the unix time counter.  Default:[moment=0.01]')
+        parser.add_argument('-m', '--message', nargs='*', type=str, help='The message displayed when the counter reaches given time.')
         #parser.add_argument('-o','--offset', nargs='*', type=float, default=0, help='The place out of line from the actual time.  Default:[offset=0]')
         args=parser.parse_args()
         
-        if args.party:
-            counter = up.unix_countup(args.party[0])
+        if args.party and args.message:
+		    #  !! ARGS.MESSAGE  NOT WORKING  !!
+            counter = up.unix_countup(args.party, args.message)
             counter
         else:
             if __name__ == '__main__':
