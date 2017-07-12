@@ -18,7 +18,7 @@ def unix_countup(party=1500000000, *msg):
                 wait_time = 1-time.time()%1
                 time.sleep(wait_time if wait_time else 1)
             else:
-                print(str(msg))
+                print(str(msg[0]))
                 wait_time = 1-time.time()%1
                 time.sleep(wait_time if wait_time else 1)
     
