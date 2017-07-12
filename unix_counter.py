@@ -58,7 +58,7 @@ while True:
         #parser.add_argument('-o','--offset', nargs='*', type=float, default=0, help='The place out of line from the actual time.  Default:[offset=0]')
         args=parser.parse_args()
         
-        if args.party and args.moment and args.offset:
+        if args.party:
             counter = up.unix_countup(args.party[0])
             counter
         else:
