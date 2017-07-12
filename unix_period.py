@@ -1,7 +1,7 @@
 import time
 
 #Press CTRL C to interrupt the unix_countup function:
-def unix_countup(party=1500000000, *msg='Party Time!'):
+def unix_countup(party=1500000000, *msg):
     '''Unix Time Stamp Counter.
     
     unix_countup(party)
