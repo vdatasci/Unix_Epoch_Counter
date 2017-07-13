@@ -14,7 +14,7 @@ def unix_countup(party=1500000000, *msg):
     if msg:
         while True:
             if time.time()<party:
-                print("{:,}".format(time.time()))
+                print("{:,}".format(int(time.time())))
                 wait_time = 1-time.time()%1
                 time.sleep(wait_time if wait_time else 1)
             else:
@@ -25,7 +25,7 @@ def unix_countup(party=1500000000, *msg):
     else:
         while True:
             if time.time()<party:
-                print("{:,}".format(time.time()))
+                print("{:,}".format(int(time.time())))
                 wait_time = 1-time.time()%1
                 time.sleep(wait_time if wait_time else 1)
             else:
