@@ -4,8 +4,9 @@ import time
 def unix_countup(party=1500000000, *msg):
     '''Unix Time Stamp Counter.
     
-    unix_countup(party)
+    unix_countup(party, *msg)
     party:= counter end time.
+    msg:= message at counter end.
     
     Example:
     unix_countup(party=1600000000)
